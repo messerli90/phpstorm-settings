@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../tests/Feature/Api/LeadsController/LeadApiStoreTest.php'" />
-    <option name="defaultScopeName" value="File '.../tests/Feature/Api/LeadsController/LeadApiStoreTest.php'" />
-    <option name="SEARCH_SCOPE" value="File '.../tests/Feature/Api/LeadsController/LeadApiStoreTest.php'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
