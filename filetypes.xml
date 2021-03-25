@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="privateKey" type="AUTO_DETECTED" />
+      <mapping pattern="Uses2fa.php" type="AUTO_DETECTED" />
       <mapping pattern="using-a-configuration-file" type="AUTO_DETECTED" />
       <mapping ext="log" type="AUTO_DETECTED" />
       <mapping pattern="*.php.stub" type="PHP" />
