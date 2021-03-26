@@ -11,6 +11,7 @@
       <mapping pattern="create_dashboard_tiles_table" type="PLAIN_TEXT" />
       <mapping pattern=".env-flare" type="PLAIN_TEXT" />
       <mapping pattern="determining-the-current-tenant" type="PLAIN_TEXT" />
+      <mapping pattern=".stylecsi" type="PLAIN_TEXT" />
       <mapping pattern="publicSignature" type="PLAIN_TEXT" />
       <mapping pattern="TailCommandTest" type="PLAIN_TEXT" />
       <mapping pattern="general-overview" type="PLAIN_TEXT" />
